@@ -1,2 +1,2 @@
-CleanCode.Chapter1.Exercise
+CleanCode.Chapter2.Exercise
 ===========================
